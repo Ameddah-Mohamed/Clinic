@@ -54,7 +54,7 @@
 
 2- List of reasons why people visit the website :
     -> Health issues .
-    -> The ability to choose the doctor elying on the reviews.
+    -> The ability to choose the doctor relying on the reviews.
     -> Finding doctors and specialists.
     -> Scheduling appointments.
     -> Accessing patient portals.
