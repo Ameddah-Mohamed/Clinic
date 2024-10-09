@@ -28,7 +28,7 @@
     Will visitors be using the site for themselves or for someone else?
     How large is the budget they control?
 
-- Kzy motivations :
+- Key motivations :
     Are they looking for general entertainment or do they need to achieve a specific goal?
     -> A specific goal .
       If there is a specific goal, is it a personal or professional one?
@@ -44,5 +44,5 @@
     Are they looking for time sensitive information, such as the latest news or updates on a particular topic?
     -> Yes , any update in their medical record will be taken into consideration .
     Do they want to discover information about a specific product or service to help them decide whether to buy it or not?
-    -> Yes , they can discover the  
+    -> Yes , they can discover the doctors and other people' reviews about them .
     Do they need to contact you? If so, can they visit in person (which might require opening hours and a map)? Or might they need email or telephone contact details?
