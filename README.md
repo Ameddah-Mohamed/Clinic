@@ -20,12 +20,7 @@
     -> Pcs , Phones , Tablets ...
 
 2-Targeted Companies : 
-    What is the size of the company or relevant department?
-    -> 
-    What is the position of people in the company who visit your site?
-    -> 
-    Will visitors be using the site for themselves or for someone else?
-    How large is the budget they control?
+   -> Our website is designed to solve individuals' health issues .
 
 **II. Why people visit this website ?**
 1- Key motivations :
@@ -59,7 +54,11 @@
 
 2- List of reasons why people visit the website :
     -> Health issues .
-    -> 
+    -> The ability to choose the doctor elying on the reviews.
+    -> Finding doctors and specialists.
+    -> Scheduling appointments.
+    -> Accessing patient portals.
+    
 
 **IV. What information visitors need to acheive their goals ?**
     Will visitors be familiar with your subject area / brand or do you need to introduce yourself ?
